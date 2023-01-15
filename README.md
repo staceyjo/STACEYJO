@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif)
+
 ### Hi there 👋🏽
 ✨I'm Stacey✨. senior project manager --> web developer
 - Pronouns: she/her 😊
