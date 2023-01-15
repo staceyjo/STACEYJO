@@ -6,6 +6,8 @@
 
 [![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats)
 
+![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)
+
 ### Languages 🗣
  <a href="#">
     <img src="readmeimages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
