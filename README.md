@@ -51,16 +51,16 @@
   </a> 
 
 
-###  Connect with me 🤝🏽
-<a href="#">
+###  Click to connect with me 🤝🏽
+<a href="https://stackoverflow.com/users/20096403/sjo">
     <img src="readmeimages/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>
 
- <a href="#">
+ <!-- <a href="#">
     <img src="readmeimages/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>  -->
 
- <a href="#">
+ <a href="https://www.meetup.com/members/13882586/">
     <img src="readmeimages/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
   </a>
 
@@ -78,6 +78,5 @@
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ... -->
 
