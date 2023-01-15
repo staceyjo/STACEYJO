@@ -1,5 +1,5 @@
 ### Hi there 👋🏽
-✨_I'm Stacey_✨. senior project manager --> web developer
+✨I'm _Stacey_✨. senior project manager --> web developer
 - 😊 Pronouns: she/her
 - 👩🏽‍💻 I’m currently working on my portfolio
 - 👓 I’m currently learning JavaScript, HTML, CSS, React.Js, Node.js, Express, MongoDB and Bootstrap
