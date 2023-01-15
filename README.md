@@ -56,9 +56,9 @@
     <img src="readmeimages/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>
 
- <!-- <a href="#">
+ <a href="#mailto:stacey.l.joseph@gmail.com">
     <img src="readmeimages/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  -->
+  </a> 
 
  <a href="https://www.meetup.com/members/13882586/">
     <img src="readmeimages/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
@@ -68,8 +68,9 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
+<p align="center">
 <img src="readmeimages/yes.jpg" alt="Alt text" title="Optional title">
-
+</p>
 <!--
 **staceyjo/STACEYJO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
