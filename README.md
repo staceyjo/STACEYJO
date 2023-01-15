@@ -1,10 +1,9 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats)
-
-
 ### Hi there 👋🏽
 💬 I'm Stacey. Senior project manager --> web developer
 - 👩🏽‍💻 I’m currently working on my portfolio
-- 👓 I’m currently learning Bootstrap
+- 👓 I’m currently learning JavaScript, HTML, CSS, React.Js, Node.js, Express, MongoDB and Bootstrap
+
+[![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats)
 
 ### Languages 🗣
  <a href="#">
