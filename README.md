@@ -8,7 +8,9 @@
 
 <!-- [![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats) -->
 
+<p align="center">
 ![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)
+</p>
 
 ### Languages 🗣
  <a href="#">
