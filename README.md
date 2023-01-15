@@ -9,28 +9,28 @@ I'm Stacey. Senior project manager --> web developer
 
 ### Frameworks 
  <a href="#">
-    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+    <img src="readmeimages/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
   </a>
 
 <a href="#">
-    <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
+    <img src="readmeimages/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
   </a>
 
 <a href="#">
-    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    <img src="readmeimages/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 ### Languages
  <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="portfolio/STACEYJO/readmeimages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
 
  <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img src="portfolio/STACEYJO/readmeimages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   </a> 
 
  <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img src="portfolio/STACEYJO/readmeimages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 <!--
