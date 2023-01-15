@@ -1,4 +1,9 @@
-### Hi there 👋🏽
+<!-- Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- ⚡ Fun fact: ... -->
+
+### < Hello World > 👋🏽
 ✨I'm Stacey✨. senior project manager --> web developer
 - Pronouns: she/her 😊
 - I’m currently working on my portfolio 👩🏽‍💻
@@ -63,10 +68,10 @@
 
 
 ###  Click to connect with me 🤝🏽
-  ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000)
+  <!-- ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000) -->
 
 
-<a href="#mailto:stacey.l.joseph@gmail.com">
+<a href="mailto:stacey.l.joseph@gmail.com">
     <img src="readmeimages/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a> 
 
@@ -89,10 +94,5 @@
 </p>
 
 
-<!-- Here are some ideas to get you started:
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ... -->
 
