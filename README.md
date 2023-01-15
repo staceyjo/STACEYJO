@@ -1,3 +1,6 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats)
+
+
 ### Hi there 👋🏽
 💬 I'm Stacey. Senior project manager --> web developer
 - 👩🏽‍💻 I’m currently working on my portfolio
