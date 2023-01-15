@@ -1,6 +1,11 @@
 <!-- ![](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif) -->
 
-![](https://www.canva.com/design/DAFXtda-kPs/ypJ2J_BKHWWMMs5jCO6mDA/watch?utm_content=DAFXtda-kPs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<!-- ![](https://www.canva.com/design/DAFXtda-kPs/ypJ2J_BKHWWMMs5jCO6mDA/watch?utm_content=DAFXtda-kPs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ -->
+
+<p align="center">
+<img src="readmeimages/untitleddesign.gif" alt="Alt text" title="Optional title">
+</p>
 
 
 ### Hi there 👋🏽
