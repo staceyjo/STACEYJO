@@ -63,23 +63,26 @@
 
 
 ###  Click to connect with me 🤝🏽
+  ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000)
+
+
+<a href="#mailto:stacey.l.joseph@gmail.com">
+    <img src="readmeimages/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
 <a href="https://stackoverflow.com/users/20096403/sjo">
     <img src="readmeimages/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>
 
- <a href="#mailto:stacey.l.joseph@gmail.com">
-    <img src="readmeimages/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a> 
 
  <a href="https://www.meetup.com/members/13882586/">
     <img src="readmeimages/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="https://www.linkedin.com/in/staceyljo/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="readmeimages/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000)
 
 <p align="center">
 <img src="readmeimages/yes.jpg" alt="Alt text" title="Optional title">
