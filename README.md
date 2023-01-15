@@ -3,7 +3,7 @@ I'm Stacey. Senior project manager --> web developer
 
 
 ### 📢 Find me elsewhere
-  <a href="linkedin.com/in/staceyljo">
+  <a href="https://www.linkedin.com/in/staceyljo/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 <!--
