@@ -36,8 +36,34 @@
     <img src="readmeimages/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a> 
 
+### Tools
+  <a href="#">
+    <img src="readmeimages/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+    <img src="readmeimages/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+### Services
+ <a href="#">
+    <img src="readmeimages/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
 
 ###  Connect with me 🤝🏽
+<a href="#">
+    <img src="readmeimages/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+    <img src="readmeimages/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+ <a href="#">
+    <img src="readmeimages/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
+  </a>
+
   <a href="https://www.linkedin.com/in/staceyljo/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
