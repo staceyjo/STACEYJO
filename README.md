@@ -1,3 +1,10 @@
+### Hi there 👋🏽
+✨I'm Stacey✨. senior project manager --> web developer
+- Pronouns: she/her 😊
+- I’m currently working on my portfolio 👩🏽‍💻
+-  I’m currently learning: JavaScript, HTML, CSS, React.Js, Node.js, Express, MongoDB and Bootstrap 👓
+
+
 <!-- ![](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif) -->
 
 <!-- ![](https://www.canva.com/design/DAFXtda-kPs/ypJ2J_BKHWWMMs5jCO6mDA/watch?utm_content=DAFXtda-kPs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -7,12 +14,6 @@
 <img src="readmeimages/untitleddesign.gif" alt="Alt text" title="Optional title">
 </p>
 
-
-### Hi there 👋🏽
-✨I'm Stacey✨. senior project manager --> web developer
-- Pronouns: she/her 😊
-- I’m currently working on my portfolio 👩🏽‍💻
--  I’m currently learning: JavaScript, HTML, CSS, React.Js, Node.js, Express, MongoDB and Bootstrap 👓
 
 <!-- [![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats) -->
 
