@@ -79,11 +79,12 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
+  ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000)
+
 <p align="center">
 <img src="readmeimages/yes.jpg" alt="Alt text" title="Optional title">
 </p>
-<!--
-**staceyjo/STACEYJO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <!-- Here are some ideas to get you started:
 
