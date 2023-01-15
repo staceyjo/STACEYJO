@@ -15,11 +15,6 @@
 </p>
 
 
-<!-- [![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats) -->
-
-
-![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)
-
 
 ### Languages 🗣
  <a href="#">
@@ -60,6 +55,11 @@
  <a href="#">
     <img src="readmeimages/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a> 
+
+<!-- [![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats) -->
+
+
+![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)
 
 
 ###  Click to connect with me 🤝🏽
