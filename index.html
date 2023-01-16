@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stacey's Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Nav Bar -->
+    <nav class="navbar">
+        <ul class="link-group">
+            <li class="link active"><a href="#">home</a></li>
+            <li class="link"><a href="#">projects</a></li>
+            <li class="link"><a href="#">about</a></li>
+            <li class="link"><a href="#">contact</a></li>
+        </ul>
+    </nav>
+
+
+    <!-- home section -->
+    <section class="home-section active">
+        <h1 class="hero-heading">hello, <br>i'm <br>stacey.</h1>
+        <img src="img/resized.gif" class ="home-img" alt="home">
+    </section>
+
+
+    <!-- project section -->
+    <section class="project-section active">
+        <h1 class="project-heading">some of my projects</h1>
+        <div class="project-container">
+
+            <!-- kind of like this positioning -->
+            <!-- <div class="project-content">
+                    <h1 class="project-title">project 01</h1>
+
+                    <p class="project-info">
+                        Play a cuter version of the classic, retro mobile phone game in your web browser using your keyboard!
+                    </p>
+                </div> -->
+
+
+
+            <!-- Project 1 -->
+
+            <div class="project-card">
+                <img src="img/snake.png" class="project-img" alt="project-1">
+
+                <div class="project-content">
+                    <h1 class="project-title">Rainbow Snake</h1>
+
+                    <p class="project-info">
+                        Play a cute version of the classic, retro mobile phone game in your browser using your keyboard!
+                    </p>
+
+                    <div class="project-btn-grp">
+
+                        <button class="project-btn github">github repo</button>
+
+                        <button class="project-btn live">live demo</button>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Project 2 -->
+            <div class="project-card">
+                <img src="img/jeopardy.png" class="project-img" alt="project-2">
+
+                <div class="project-content">
+                    <h1 class="project-title">Jeopardy Trivia</h1>
+
+                    <p class="project-info">
+                        Test your trivia skills with 221,510 questions provided by Jeopardy via the jService api!
+                    </p>
+
+                    <div class="project-btn-grp">
+
+                        <button class="project-btn github">github repo</button>
+
+                        <button class="project-btn live">live demo</button>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Project 3 -->
+            <div class="project-card">
+                <img src="img/places2.png" class="project-img" alt="project-3">
+
+                <div class="project-content">
+                    <h1 class="project-title">Places</h1>
+
+                    <p class="project-info">
+                        Full stack MERN application that allows users to share their special places (images & location)
+                        with other users.
+                    </p>
+
+                    <div class="project-btn-grp">
+
+                        <button class="project-btn github">github repo</button>
+
+                        <button class="project-btn live">live demo</button>
+
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Project 4 -->
+            <div class="project-card">
+                <img src="img/weather.png" class="project-img" alt="project-4">
+
+                <div class="project-content">
+                    <h1 class="project-title">Cor 5 Weather</h1>
+
+                    <p class="project-info">
+                        Front-end weather application that fetches data from an external weather api and a map api to
+                        display the weather of a valid city or location provided from user text input!
+                    </p>
+
+                    <div class="project-btn-grp">
+
+                        <button class="project-btn github">github repo</button>
+
+                        <button class="project-btn live">live demo</button>
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </section>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
