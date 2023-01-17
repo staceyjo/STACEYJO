@@ -667,3 +667,21 @@ body {
     border-radius:5px;
     border-width: 3px;
 }
+
+/* google map */
+.gmap_canvas{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border: 2px;
+    border-style: solid;
+    border-color: #D257A4;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+}
+
+.gmap_canvas iframe{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
