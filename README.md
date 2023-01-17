@@ -3,7 +3,7 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ... -->
 
-### < Hello World > 👋🏽
+# < Hello World > 👋🏽
 ✨I'm Stacey✨. senior project manager --> web developer
 - Pronouns: she/her 😊
 - I’m currently working on my portfolio 👩🏽‍💻
@@ -63,14 +63,6 @@
 
 <!-- [![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats) -->
 
-
-![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staceyjo" alt="streak" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staceyjo&show_icons=true&locale=en&layout=compact" alt="staceyjo" /></p>
-
 ##  Click to connect with me 👇🏾
   <!-- ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000) -->
 
@@ -97,6 +89,12 @@
 <img src="readmeimages/yes.jpg" alt="Alt text" title="Optional title">
 </p>
 
+### Stats
+
+![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staceyjo" alt="streak" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staceyjo&show_icons=true&locale=en&layout=compact" alt="staceyjo" /></p>
 
