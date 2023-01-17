@@ -59,20 +59,13 @@ body {
 /* Home section */
 .home-section.active,
 .project-section.active,
-.about-section.active {
+.about-section.active,
+.contact-section.active {
     position: relative;
     opacity: 1;
     z-index: 8;
 }
 
-/* .home-section.active,
-.project-section.active,
-.about-section.active,
-.contact-section.active{
-    position: relative;
-    opacity: 1;
-    z-index: 8;
-} */
 
 .home-section {
     width: 100%;
@@ -603,8 +596,9 @@ body {
 
 /* contact section*/
 .contact-section {
-    position: relative;
+    position: absolute;
     top: 0;
+    opacity: 0;
     transition: 1s;
     padding: 100px 150px;
     height: 100vh;
