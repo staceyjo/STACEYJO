@@ -85,10 +85,6 @@
   </a>
 
 
-<p align="center">
-<img src="readmeimages/yes.jpg" alt="Alt text" title="Optional title">
-</p>
-
 ### Stats
 
 ![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)
@@ -98,3 +94,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staceyjo&show_icons=true&locale=en&layout=compact" alt="staceyjo" /></p>
 
+<p align="center">
+<img src="readmeimages/yes.jpg" alt="Alt text" title="Optional title">
+</p>
