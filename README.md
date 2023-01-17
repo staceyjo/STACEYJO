@@ -67,6 +67,11 @@
 ![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)
 
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=staceyjo&show_icons=true&locale=en" alt="stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staceyjo" alt="streak" /></p>
+
 ###  Click to connect with me 🤝🏽
   <!-- ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000) -->
 
