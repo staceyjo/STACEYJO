@@ -35,9 +35,9 @@
   </a> 
 
 ### Frameworks 💻
- <a href="#">
+ <!-- <a href="#">
     <img src="readmeimages/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  </a>
+  </a> -->
 
 <a href="#">
     <img src="readmeimages/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
