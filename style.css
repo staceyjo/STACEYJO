@@ -186,7 +186,7 @@ body {
 
 .project-btn {
     height: 40px;
-    width:auto;
+    width:fit-content;
     text-transform: capitalize;
     font-size: 18px;
     border: #D257A4;
@@ -207,7 +207,7 @@ body {
 
 .project-btn:hover {
     height: 40px;
-    width:auto;
+    width:fit-content;
     text-transform: capitalize;
     font-size: 18px;
     border: #D257A4;
