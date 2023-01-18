@@ -14,7 +14,7 @@ links.forEach((link, i) => {
     link.addEventListener('click', () => {
 
         // condition to check whether the active link is not equal to i, bc we don't want to perform anything if we click on the same active link
-        if(activeLink != i){
+        if (activeLink != i) {
 
             // selecting the active link from links index
             // class list .remove will remove the active class from it
@@ -37,3 +37,4 @@ links.forEach((link, i) => {
         }
     })
 })
+

@@ -8,11 +8,22 @@ body {
     width: 100%;
     max-width: 1400px;
     display: block;
+    /* display: flex; */
     margin: auto;
     min-height: 100vh;
     background: #191919;
     font-family: sans-serif;
 }
+
+/* body {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #222;
+    position: relative;
+    min-height: 100vh;
+} */
+
 
 
 /* Navigation */
@@ -186,7 +197,7 @@ body {
 
 .project-btn {
     height: 40px;
-    width:fit-content;
+    width: fit-content;
     text-transform: capitalize;
     font-size: 18px;
     border: #D257A4;
@@ -206,7 +217,7 @@ body {
 
 .project-btn:hover {
     height: 40px;
-    width:fit-content;
+    width: fit-content;
     text-transform: capitalize;
     font-size: 18px;
     border: #D257A4;
@@ -740,3 +751,7 @@ body {
     height: 100%;
     border-radius: 5px;
 }
+
+/* Modal */
+
+
