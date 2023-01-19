@@ -33,7 +33,7 @@
 
 
 
-    <!-- project section (removed active) -->
+    <!-- project section -->
     <section class="project-section">
         <h1 class="project-heading">some of my projects</h1>
         <div class="project-container">
@@ -123,7 +123,8 @@
                             <button class="project-btn">github backend repo</button>
                         </a>
 
-                        <a href="https://www.canva.com/design/DAFYDvQ6dFM/rPF8Snf_NN5o7URp1fZZdQ/watch?utm_content=DAFYDvQ6dFM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+                        <a
+                            href="https://www.canva.com/design/DAFYDvQ6dFM/rPF8Snf_NN5o7URp1fZZdQ/watch?utm_content=DAFYDvQ6dFM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
                             <button class="project-btn">view demo</button>
                         </a>
 
@@ -150,7 +151,8 @@
                         </a>
 
 
-                        <a href="https://www.canva.com/design/DAFYEbod1x4/-Uq9ytJbjtFn9cTkl5rxOw/watch?utm_content=DAFYEbod1x4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+                        <a
+                            href="https://www.canva.com/design/DAFYEbod1x4/-Uq9ytJbjtFn9cTkl5rxOw/watch?utm_content=DAFYEbod1x4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
                             <button class="project-btn">view demo</button>
                         </a>
 
@@ -386,12 +388,14 @@
 
     <!-- contact section -->
     <section class="contact-section">
-        <form class="contact-form">
-            <input type="text" name="name" id="name" autocomplete="off" placeholder=" your name" required>
-            <input type="text" name="email" id="email" autocomplete="off" placeholder=" your email address" required>
-            <textarea name="msg" id="msg" autocomplete="off" placeholder=" Send me a message..." required></textarea>
-            <button type="submit" class="form-submit-btn">Contact</button>
+        <form class="contact-form" name="submit-to-google-sheet">
+            <input type="text" name="Name" id="name" autocomplete="off" placeholder=" your name" required>
+            <input type="text" name="Email" id="email" autocomplete="off" placeholder=" your email address" required>
+            <textarea name="Message" id="msg" autocomplete="off" placeholder=" Send me a message..."
+                required></textarea>
+            <button type="submit" class="form-submit-btn">Submit</button>
         </form>
+
 
         <!-- Google Map Embed  -->
         <div class="mapouter">
@@ -423,12 +427,15 @@
             </div>
         </div>
 
+        <!-- display after message is submitted -->
+        <span id="submitmsg"></span>
+
     </section>
 
     <!-- footer -->
     <footer class="footer">
         <div class="social-icons">
-            
+
             &nbsp;
             <a href="https://www.linkedin.com/in/staceyljo/"><i class="fab fa-linkedin"></i></a>
             &nbsp;
@@ -439,6 +446,28 @@
 
     </footer>
 
+    <!-- Google sheets script -->
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycby8sMeANPWRYBCTyqcn34Ti8D1gMYR5eWMuxxXknZrDaEFRJ_MIBL39EJA6-EwjQYhY/exec'
+        const form = document.forms['submit-to-google-sheet']
+
+        // to only allow submit message to appear when button is pressed
+        const submitmsg = document.getElementById("submitmsg")
+
+
+        form.addEventListener('submit', e => {
+            e.preventDefault()
+            fetch(scriptURL, { method: 'POST', body: new FormData(form) })
+                .then(response => {
+                    submitmsg.innerHTML = "Message sent successfully!"
+                    setTimeout(function(){
+                        submitmsg.innerHTML = ""
+                    }, 5000)
+                    form.reset()
+                })
+                .catch(error => console.error('Error!', error.message))
+        })
+    </script>
 
     <script src="app.js"></script>
 
