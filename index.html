@@ -180,19 +180,19 @@
                     <button class="download-cv-btn"></a>view resume</button>
                 </form>
             </div>
+            <div class="about-info">
+                <p class="about-info">Hello, I'm Stacey. <br> <br>My first interest in programming was actually Myspace
+                    😂. Although most of the "code" was copy and paste, I quickly learned that in order to get things to
+                    run the formatting had to be just right.<br>As someone who enjoys challenges 💪🏽, I'm pursuing
+                    opportunities as a software developer because I love troubleshooting and finding solutions. I love
+                    the immediate sense of gratification I receive when I finally get something to work ✅. <br>No matter
+                    how small the lesson or project, I get to test my attention to detail and continually gain
+                    confidence when I break problems down 👩🏽‍💻. Progress feels so rewarding when you push yourself
+                    out of your comfort zone to learn something new❗<br></p>
+                <p style="color:#4fa0ff;">👇🏽 Keep scrolling to learn more about the skills I'm developing and follow my journey
+                    into web development as I create more projects along the way.</p>
+            </div>
 
-            <p class="about-info">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Velit placeat dicta
-                accusantium ea unde facilis! Doloremque mollitia quidem facilis nostrum consectetur odit quisquam quasi
-                quas quod. Error quae necessitatibus obcaecati nulla atque facere ipsum similique suscipit quo.
-                Cupiditate culpa eum doloremque voluptatum soluta, alias mollitia eius porro dicta necessitatibus modi
-                eligendi quia? Placeat voluptas a omnis qui doloribus dolores vitae totam dolore, alias quae quas
-                molestias cupiditate minus tempore! Aliquid explicabo dolore excepturi dolorum. Atque, perferendis ut.
-                Esse nemo aliquam neque minus ex culpa doloremque at quod aliquid eaque adipisci magni veritatis illo
-                cum optio ratione, tenetur eos minima? Ratione voluptate magnam placeat! Beatae dolore molestiae ipsum
-                asperiores, nulla eum, doloribus nisi rerum blanditiis laudantium, repudiandae consectetur consequuntur.
-                Itaque autem dolores, error minus laboriosam aperiam earum eos blanditiis veniam hic nisi exercitationem
-                doloribus, nesciunt quaerat magnam quo recusandae debitis enim. Tempore aspernatur facilis rem esse,
-                consequuntur ipsum! At, laborum voluptate?</p>
 
         </div>
 
@@ -210,7 +210,7 @@
 
                     <h1 class="skill-name">HTML</h1>
 
-                    <p class="skill-info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, eius!</p>
+                    <p class="skill-info">HTML 5.3</p>
                 </div>
 
 
@@ -223,7 +223,7 @@
 
                     <h1 class="skill-name">CSS</h1>
 
-                    <p class="skill-info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, eius!</p>
+                    <p class="skill-info">CSS 2.1 and CSS3</p>
                 </div>
 
 
@@ -236,7 +236,7 @@
 
                     <h1 class="skill-name">JavaScript</h1>
 
-                    <p class="skill-info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, eius!</p>
+                    <p class="skill-info">ES6</p>
                 </div>
 
 
@@ -249,7 +249,7 @@
 
                     <h1 class="skill-name">Node.js</h1>
 
-                    <p class="skill-info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, eius!</p>
+                    <p class="skill-info">version 19.4.0</p>
                 </div>
 
 
@@ -262,7 +262,7 @@
 
                     <h1 class="skill-name">React.js</h1>
 
-                    <p class="skill-info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, eius!</p>
+                    <p class="skill-info">version 18</p>
                 </div>
 
 
@@ -447,6 +447,7 @@
     </footer>
 
     <!-- Google sheets script -->
+    <!-- https://github.com/jamiewilson/form-to-google-sheets -->
     <script>
         const scriptURL = 'https://script.google.com/macros/s/AKfycby8sMeANPWRYBCTyqcn34Ti8D1gMYR5eWMuxxXknZrDaEFRJ_MIBL39EJA6-EwjQYhY/exec'
         const form = document.forms['submit-to-google-sheet']
@@ -460,7 +461,7 @@
             fetch(scriptURL, { method: 'POST', body: new FormData(form) })
                 .then(response => {
                     submitmsg.innerHTML = "Message sent successfully!"
-                    setTimeout(function(){
+                    setTimeout(function () {
                         submitmsg.innerHTML = ""
                     }, 5000)
                     form.reset()
