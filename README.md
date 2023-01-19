@@ -19,6 +19,30 @@
 <img src="readmeimages/untitleddesign.gif" alt="Alt text" title="Optional title">
 </p>
 
+##  Click to connect with me 👇🏾
+  <!-- ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000) -->
+
+
+<a href="mailto:stacey.l.joseph@gmail.com">
+    <img src="readmeimages/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+<a href="https://stackoverflow.com/users/20096403/sjo">
+    <img src="readmeimages/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+
+ <a href="https://www.meetup.com/members/13882586/">
+    <img src="readmeimages/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="https://www.linkedin.com/in/staceyljo/">
+    <img src="readmeimages/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+
+
+
 
 
 ### Languages 🗣
@@ -62,28 +86,6 @@
   </a> 
 
 <!-- [![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats) -->
-
-##  Click to connect with me 👇🏾
-  <!-- ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000) -->
-
-
-<a href="mailto:stacey.l.joseph@gmail.com">
-    <img src="readmeimages/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-<a href="https://stackoverflow.com/users/20096403/sjo">
-    <img src="readmeimages/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-
- <a href="https://www.meetup.com/members/13882586/">
-    <img src="readmeimages/meetup.svg" alt="meetup" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="https://www.linkedin.com/in/staceyljo/">
-    <img src="readmeimages/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
-  </a>
-
 
 ### Stats
 
