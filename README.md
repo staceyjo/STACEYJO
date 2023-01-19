@@ -58,6 +58,16 @@
     <img src="readmeimages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a> 
 
+  ### Tools
+  <a href="#">
+    <img src="readmeimages/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+ <a href="#">
+    <img src="readmeimages/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+
 ### Frameworks 💻
  <!-- <a href="#">
     <img src="readmeimages/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
@@ -71,14 +81,6 @@
     <img src="readmeimages/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-### Tools
-  <a href="#">
-    <img src="readmeimages/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a>
-
- <a href="#">
-    <img src="readmeimages/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
-  </a>
 
 ### Services
  <a href="#">
