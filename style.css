@@ -172,7 +172,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    object-fit:fill;
+    object-fit: fill;
     transition: .5s;
     /* border-radius: 20px; */
 
@@ -770,6 +770,23 @@ body {
     border-radius: 5px;
 }
 
-/* Modal */
+/* Footer */
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    z-index: 9;
+}
 
+.social-icons{
+    color:#0097CC;
+}
+
+.fab{
+    color:white;
+}
