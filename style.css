@@ -777,7 +777,7 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: black;
+    /* background-color: black; */
     color: white;
     text-align: center;
     z-index: 9;
@@ -789,4 +789,14 @@ body {
 
 .fab{
     color:white;
+    font-size: 30px;
+    transition: transform 0.3s;
 }
+
+.fab:hover{
+    color:#D257A4;
+    font-size: 30px;
+    transform: translateY(-5px);
+}
+
+/* --------------------css for smaller screens------------------ */
