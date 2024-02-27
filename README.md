@@ -6,9 +6,9 @@
 # < Hello World > 👋🏽
 ✨I'm Stacey✨. senior project manager --> web developer
 - Pronouns: she/her 😊
-- I’m currently working on python projects as a bootcamp student 👩🏽‍💻
-- I’m currently learning: Flask and building APIs
-- Continued learning: JavaScript, HTML, CSS, React.Js, Node.js, Express, MongoDB and Bootstrap 
+- I’m currently working on working as a Level 1 SWE intern 👩🏽‍💻
+- I’m learning: Nest.Js, Ruby, Rails, TypeScript
+- Continued learning: JavaScript, React, HTML, CSS, Node, Express, MongoDB and Bootstrap 
 
 
 <!-- ![](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif) -->
