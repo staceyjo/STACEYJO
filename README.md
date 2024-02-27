@@ -92,7 +92,7 @@
 
 ### Stats
 
-![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)
+<!-- ![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo) -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staceyjo" alt="streak" /></p>
