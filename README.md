@@ -7,7 +7,7 @@
 ✨I'm Stacey✨. senior project manager --> web developer
 - Pronouns: she/her 😊
 - I’m currently working on working as a Level 1 SWE intern 👩🏽‍💻
-- I’m learning: Nest.Js, Ruby, Rails, TypeScript
+- I’m learning: React with TypeScript
 - Continued learning: JavaScript, React, HTML, CSS, Node, Express, MongoDB and Bootstrap 
 
 
