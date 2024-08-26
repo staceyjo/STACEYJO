@@ -4,25 +4,14 @@
 - ⚡ Fun fact: ... -->
 
 # < Hello World > 👋🏽
-✨I'm Stacey✨. senior project manager --> web developer
-- Pronouns: she/her 😊
-- I’m currently working on working as a Level 1 SWE intern 👩🏽‍💻
-- I’m learning: React with TypeScript
-- Continued learning: JavaScript, React, HTML, CSS, Node, Express, MongoDB and Bootstrap 
-
-
-<!-- ![](https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif) -->
-
-<!-- ![](https://www.canva.com/design/DAFXtda-kPs/ypJ2J_BKHWWMMs5jCO6mDA/watch?utm_content=DAFXtda-kPs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
- -->
-
-<p align="center">
-<img src="readmeimages/untitleddesign.gif" alt="Alt text" title="Optional title">
-</p>
+✨I'm Stacey✨ senior project manager --transitioning--> frontend web developer 🖥️
+- Pronouns: she/her 👩🏽
+- I recently completed an internship as a Software Engineer I with Cerebral.com ⚕️
+- I’m currently revising my portfolio 🎨 , practicing algorithms 👩🏽‍💻, and applying for a new role 🔍
+- Continued learning: Foundations of User Experience (UX) Design certification
 
 ##  Click to connect with me 👇🏾
   <!-- ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000) -->
-
 
 <a href="mailto:stacey.l.joseph@gmail.com">
     <img src="readmeimages/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
@@ -40,10 +29,6 @@
   <a href="https://www.linkedin.com/in/staceyljo/">
     <img src="readmeimages/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
   </a>
-
-
-
-
 
 
 ### Languages 🗣
@@ -98,7 +83,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=staceyjo" alt="streak" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staceyjo&show_icons=true&locale=en&layout=compact" alt="staceyjo" /></p>
-
-<p align="center">
-<img src="readmeimages/yes.jpg" alt="Alt text" title="Optional title">
-</p>
