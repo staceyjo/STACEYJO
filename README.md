@@ -8,7 +8,7 @@
 - Pronouns: she/her 👩🏽
 - I recently completed an internship as a Software Engineer I with Cerebral.com ⚕️
 - I’m currently revising my portfolio 🎨 , practicing algorithms 👩🏽‍💻, and applying for a new role 🔍
-- Continued learning: Foundations of User Experience (UX) Design certification
+- Continued learning: Foundations of User Experience (UX) Design certification 📖
 
 ##  Click to connect with me 👇🏾
   <!-- ![Followers](https://img.shields.io/github/followers/staceyjo.svg?style=social&label=Follow&maxAge=2592000) -->
