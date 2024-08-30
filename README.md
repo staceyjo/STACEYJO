@@ -82,4 +82,6 @@
 
 ![Stacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=staceyjo&theme=radical&show_icons=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=staceyjo&theme=radical)](https://git.io/streak-stats)
+
 
