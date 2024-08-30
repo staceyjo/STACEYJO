@@ -78,6 +78,6 @@
 ### Stats
 
 <!-- ![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo) -->
-[![Stacey's github stats](https://github-readme-stats.vercel.app/api?username=staceyjo)](https://github.com/staceyjo/github-readme-stats)
+![Stacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=staceyjo&theme=radical&show_icons=true)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=staceyjo&show_icons=true&locale=en&layout=compact" alt="staceyjo" /></p>
